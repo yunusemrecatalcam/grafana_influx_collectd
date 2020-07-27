@@ -34,6 +34,6 @@ For doing that;
 - Copy the text of grafana_dashboard.json and paste it to the text box
  "Import via panel json" placed on the page.
  
- After the import, you can see your metrics and that all!
+ After the import, you can see your metrics!
 
 
